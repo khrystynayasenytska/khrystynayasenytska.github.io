@@ -35,7 +35,7 @@ Masters in Computer Science with a specialisation in Data Science and AI/ML.
 
 
 *   **LinkedIn**: [khrystyna-yasenytska](https://www.linkedin.com/in/khrystyna-yasenytska-1305b7158)
-*   **GitHub**: [https://github.com/khrystynayasenytska](https://github.com/khrystynayasenytska)
+*   **GitHub**: [khrystynayasenytska](https://github.com/khrystynayasenytska)
 
 <!-- ## Header 2
 
