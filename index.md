@@ -8,6 +8,9 @@ title: Khrystyna Yasenytska
 <br />
 
 
+# About Me
+I am a Machine learning engineer and Data Scientist with ~4 years of experience.
+
 ## Tech Stack
 
 *   Python
