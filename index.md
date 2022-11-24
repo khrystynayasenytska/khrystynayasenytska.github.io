@@ -24,7 +24,8 @@ I am a Machine learning engineer and Data Scientist with ~4 years of experience.
 *   KubeFlow
 *   Docker and Kubernetes
 *   SQL
-*   PowerBI MS Excel
+*   PowerBI
+*   MS Excel
 *   AWS(Sagemaker, EC2 etc.)
 *   Linux
 
