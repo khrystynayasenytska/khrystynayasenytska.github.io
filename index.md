@@ -13,13 +13,22 @@ title: Khrystyna Yasenytska
 *   Python
 *   TensorFlow
 *   PyTorch
-*   SciPy
+*   Scikit-Learn
+*   Pandas
 *   Neural Networks and Deep Learning
 *   Computer Vision
-*   MlOps
+*   MLOps
+*   KubeFlow
+*   Docker and Kubernetes
 *   SQL
 *   PowerBI MS Excel
 *   AWS(Sagemaker, EC2 etc.)
+*   Linux
+
+
+## Education
+
+Masters in Computer Science with a specialisation in Data Science and AI/ML. 
 
 <!-- ## Header 2
 
