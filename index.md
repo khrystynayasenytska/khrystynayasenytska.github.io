@@ -2,9 +2,10 @@
 layout: default
 title: Khrystyna Yasenytska
 ---
-&nbsp;
-&nbsp;
-&nbsp;
+<br />
+<br />
+<br />
+<br />
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
