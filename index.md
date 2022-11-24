@@ -8,17 +8,21 @@ title: Khrystyna Yasenytska
 <br />
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
+## Tech Stack
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+*   Python
+*   TensorFlow
+*   PyTorch
+*   SciPy
+*   Neural Networks and Deep Learning
+*   Computer Vision
+*   MlOps
+*   SQL
+*   PowerBI MS Excel
+*   AWS(Sagemaker, EC2 etc.)
 
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
+<!-- ## Header 2
 
 > This is a blockquote following a header.
 >
@@ -125,3 +129,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+ -->
