@@ -4,7 +4,6 @@ title: Khrystyna Yasenytska
 ---
 <br />
 <br />
-<br />
 
 # About Me
 I am a Machine learning engineer and Data Scientist with ~4 years of experience.
@@ -31,6 +30,12 @@ I am a Machine learning engineer and Data Scientist with ~4 years of experience.
 ## Education
 
 Masters in Computer Science with a specialisation in Data Science and AI/ML. 
+
+## Social
+
+
+*   LinkedIn: https://www.linkedin.com/in/khrystyna-yasenytska-1305b7158/
+*   GitHub: https://github.com/khrystynayasenytska
 
 <!-- ## Header 2
 
