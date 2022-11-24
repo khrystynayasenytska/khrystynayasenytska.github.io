@@ -6,7 +6,6 @@ title: Khrystyna Yasenytska
 <br />
 <br />
 <br />
-Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 
 ## Tech Stack
