@@ -5,8 +5,6 @@ title: Khrystyna Yasenytska
 <br />
 <br />
 <br />
-<br />
-
 
 # About Me
 I am a Machine learning engineer and Data Scientist with ~4 years of experience.
